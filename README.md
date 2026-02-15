@@ -47,8 +47,8 @@ By forcing the hardware into its native bootloader state, I was able to bypass t
 ---
 
 ## 📚 Resources & Links
-* **MCU Datasheet:** [Link to VS11K09A-1 / Sonix Datasheet Here] 
-* **Flashing Tool:** [Link to the software you used]
+* **MCU Datasheet:** https://github.com/SonixQMK/Mechanical-Keyboard-Database/blob/main/docs/MCU%20chip/VS11K09A-1.pdf
+* **Flashing Tool:** https://kmovetech.com/DIERYA%20&%20Kemove%20Wired%20mode%20firmware%20update.rar
 
 ## 📜 License
 This project is licensed under the **MIT License**.
